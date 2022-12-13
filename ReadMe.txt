@@ -1,7 +1,7 @@
 Team Members:
 1. Sai Rohan Harshavardhan Vuppala
 2. Bade Nikhil Kumar
-3. Kolli Jogendra Durga Prasad
+3.Nithin Devarakonda
 
 
 Terminal in server folder: npm start
@@ -13,17 +13,6 @@ https://localhost/signup
 
 Login:
 https://localhost/login
-Login as admin:
-username: sairohanharshavardhanvuppala@gmail.com
-password: Sairohan123
-
-Login as doctor:
-username: shv12@iitbbs.ac.in
-password: Sairohan123
-
-Login as patient:
-username: kjp12@iitbbs.ac.in
-password: Prasad123
 
 Doctor functionalities: 
 1. My appointments
